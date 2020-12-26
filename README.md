@@ -1,4 +1,4 @@
-# webbot # ML2021-WEEK2
+# webbot # ML2021
 
 
  WE HAVE DONE THIS WEBBOT IN A TEAM OF THREE AND THE COLLABORATORS ARE :
@@ -14,6 +14,12 @@
     It provides weather report and  corona updates.
  
  DESCRIPTION:
+ 
+ Fistly users need to be signup for entering to our chatbot, if user already has an account then they can signin with their respective username and password.
+ 
+ After entering their correct credentials then they get into a page where the users can see that they are successfully logged in.
+ 
+ Click on the button that is available on the successfully logged in page .
  
  FIRSTLY, OUR BOT ASKS YOU TO SAY HI AND AFTER CLICKING THAT IT GIVES AN WELCOME MESSAGE AND OPTIONS TO CHOOSE:
    
@@ -54,20 +60,15 @@
    #LINKS OF OUR BOT
      
    
-   * YOUTUBE VIDEO LINK(WEBBOT DEMO video) : https://youtu.be/QTLJ_gT1v2M
+   * YOUTUBE VIDEO LINK(WEBBOT DEMO video) : 
    
    
-   * REPL.IT CODE LINK : https://repl.it/@SrivatsaSrighak/Webbot-2#index.html
+   * REPL.IT CODE LINK : https://repl.it/@sampathpavan/finaltask#success.html
    
    
-   * REPL.IT WEBBOT LINK : https://webbot-2.srivatsasrighak.repl.co/
+   * REPL.IT WEBBOT LINK : https://finaltask.sampathpavan.repl.co
    
-  *WE CREATED A WEBSITE BY INCLUDING SOME FUNCTIONALITIES TO THE WEBBOT
-
-   * Git-hub link(WEBSITE) : https://github.com/srivatsa2/ML2021-WEEK2
-      
-
-   * YouTube link (DEMO VIDEO on WEBSITE) : https://youtu.be/MS3jkQDWbGQ
+   
    
    
   
