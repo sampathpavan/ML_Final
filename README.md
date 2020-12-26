@@ -15,11 +15,11 @@
  
  DESCRIPTION:
  
- Fistly users need to be signup for entering to our chatbot, if user already has an account then they can signin with their respective username and password.
+ => Firstly users need to be signup for entering to our chatbot, if user already has an account then they can signin with their respective username and password.
  
  After entering their correct credentials then they get into a page where the users can see that they are successfully logged in.
  
- Click on the button that is available on the successfully logged in page .
+ Click on the button that is available on the successfully logged in page ..
  
  FIRSTLY, OUR BOT ASKS YOU TO SAY HI AND AFTER CLICKING THAT IT GIVES AN WELCOME MESSAGE AND OPTIONS TO CHOOSE:
    
